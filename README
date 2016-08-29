@@ -1,0 +1,4 @@
+Simple experiments with the Kullback-Leibler divergence calculation for samples from distributions.
+Considering samples from different unimodal and bimodal normal distributions.
+Using Gaussian kernels to estimate PDFs, then compute the entropy on the common linspace.
+Comparing KL-divergence results with Kolmogorov-Smirnov 2-sample test results.
